@@ -8,7 +8,7 @@ The idea of this project is you add everything you need, starting with some comp
 
 I made the "html pages" with bootstrap, so if you want, you can remove or change as you want.
 
-The website is functional, but if you have contribution you can change the repository or send an email to aguus.andy@prontonmail.com
+The website is functional, but if you have contribution you can change the repository or send an email to aguus.andy@protonmail.com
 
 
 
